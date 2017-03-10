@@ -1,0 +1,26 @@
+{
+  "name": "react-native-transitiongroup",
+  "version": "1.0.0",
+  "description": "light port of ReactTransitionGroup to work in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madsleejensen/react-native-transitiongroup.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "transition",
+    "transitiongroup",
+    "reacttransitiongroup"
+  ],
+  "author": "Mads Lee Jensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madsleejensen/react-native-transitiongroup/issues"
+  },
+  "homepage": "https://github.com/madsleejensen/react-native-transitiongroup#readme"
+}
