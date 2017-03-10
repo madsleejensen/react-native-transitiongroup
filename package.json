@@ -1,6 +1,6 @@
 {
   "name": "react-native-transitiongroup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "light port of `ReactTransitionGroup` to work in react-native",
   "main": "index.js",
   "repository": {
