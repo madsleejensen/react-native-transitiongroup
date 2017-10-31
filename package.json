@@ -17,7 +17,10 @@
   "author": "Mads Lee Jensen <madsleejensen@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": ">=15.3.0",
+    "react": ">=15.5.0",
     "react-native": "*"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
   }
 }
